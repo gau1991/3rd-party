@@ -30,7 +30,7 @@
             <Path fileType="executable">/opt/HipChat4/bin</Path>
             <Path fileType="library">/opt/HipChat4/lib</Path>
             <Path fileType="data">/usr/share/applications</Path>
-            <Path fileType="data">/usr/share/icon</Path>
+            <Path fileType="data">/usr/share/icons</Path>
         </Files>
     </Package>
 
